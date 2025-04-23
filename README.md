@@ -13,7 +13,7 @@ Follow the steps below to set up the project using a Python virtual environment.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone ROB_530_Vision_Based_Gyroscope
+git clone https://github.com/nranavat1/ROB_530_Vision_Based_Gyroscope.git
 cd ROB_530_Vision_Based_Gyroscope
 ```
 
